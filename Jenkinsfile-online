@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'crpi-jv4yhsgg3nghdhwi.cn-beijing.personal.cr.aliyuncs.com'
         DOCKERHUB_NAMESPACE = 'moonbamboo'
-        GITHUB_ACCOUNT = '1025685266@qq.com'
+        GITHUB_ACCOUNT = 'moon-bamboo'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = 'SonarQube'
     }
