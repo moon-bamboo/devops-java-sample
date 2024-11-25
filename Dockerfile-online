@@ -1,4 +1,4 @@
-FROM 1ms.run/java:openjdk-8-jre-alpine
+FROM 1ms.run/java:openjdk-8u111-jre-alpine
 
 WORKDIR /home
 
